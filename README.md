@@ -1,4 +1,4 @@
-# 201811berkeley
+# Calhacks 2018
 Please find here the short links on how to leverage IBM Cloud and IBM Watson in the hackathon
 
 ## This github: http://ibm.biz/calhacks2018

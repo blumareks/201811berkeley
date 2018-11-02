@@ -16,6 +16,15 @@ Please come to our workshop that is going to be lead by Upkar Lidder on AI and v
 - coding in the cloud native manner with OpenWhisk based approach - *Serverless* : https://github.com/lidderupk/ibm-chatbot-series
 - open source flow and javascript based coding on the cloud for beginner, IoT engineers, and advanced developers - *Node.Red* : https://nodered.org/
 
+
+### if it happens that you want to build a chatbot
+In order to build a chatbot and leverage some ready to go assets, first get the IBM cloud account ^^ , and the rest is quick:
+
+- ready script bot bazzar : https://developer.ibm.com/code/exchanges/bots/
+- and you can plug it in your type of app, here comes the android app with voice enabled interface for android: https://github.com/IBM-Cloud/chatbot-watson-android
+
+
+
 And more info to come
 @blumareks
 

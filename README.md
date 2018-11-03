@@ -1,5 +1,5 @@
 
-![[link.png]]
+![](link.png)
 
 
 # Calhacks 2018

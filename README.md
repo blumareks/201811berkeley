@@ -3,7 +3,9 @@
 
 
 # Calhacks 2018
-In this document you will find links to help you use IBM Cloud services and IBM Watson services during the hackathon
+In this document you will find links to help you use IBM Cloud services and IBM Watson services during the hackathon - check for the prizes on the screen below (and in addition we have upto 6 drones for winners) :
+
+![](prize-rules-ibm.png)
 
 ## This GitHub: http://ibm.biz/calhacks2018
 
